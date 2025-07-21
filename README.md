@@ -2,27 +2,21 @@
 
 ## Project Overview
 
-This portfolio project showcases a collection of applications developed using C++ as part of an introductory programming course. The applications demonstrate fundamental programming concepts such as input/output operations, control structures, functions, arrays, and error handling. The project is targeted towards recruiters and grad school reviewers interested in the author's applied data science skills.
+This portfolio project presents a series of applications developed in C++, demonstrating proficiency in fundamental programming concepts. These include input/output operations, control structures, functions, arrays, and error handling. The project is aimed at recruiters and grad school reviewers who are interested in the author's data science skills, particularly in applied programming.
 
 ## Project Details
 
-### 1. Volume Calculator
+### 1. Volume Calculator (`rect.cpp`)
 
-This application computes the volume of a rectangular prism based on user input. It demonstrates the use of `cin` for user input, `cout` for formatted output, conditional statements for input validation, and recursion for error handling.
+This application calculates the volume of a rectangular prism based on user input. It exemplifies the use of `cin` for user input and `cout` for formatted output. It also showcases the use of conditional statements for input validation and recursion for error handling.
 
-#### Key File: `rect.cpp`
+### 2. Fruit Ordering System (`fruit.cpp`)
 
-### 2. Fruit Ordering System
+This application simulates a fruit ordering system, demonstrating the use of functions, user input validation, recursion, and formatted output. The system is designed to handle problematic user input, such as non-numerical input, over ordering, and fractional orders.
 
-This application simulates a fruit ordering system. It demonstrates the use of functions, user input validation, recursion, and formatted output. The application also handles problematic user input such as non-numerical input, over ordering, and fractional orders.
+### 3. Theater Ticket Sales System (`tickets.cpp`)
 
-#### Key File: `fruit.cpp`
-
-### 3. Theater Ticket Sales System
-
-This application simulates a theater ticket sales system. It allows users to purchase tickets, track sales, and display seating arrangements. The application demonstrates the use of 2D arrays for seat storage, functions for price calculations, loops for user input validation, and formatted output using `setprecision()`.
-
-#### Key File: `tickets.cpp`
+This application simulates a theater ticket sales system, allowing users to purchase tickets, track sales, and view seating arrangements. It demonstrates the use of 2D arrays for seat storage, functions for price calculations, loops for user input validation, and formatted output using `setprecision()`.
 
 ## Reproducibility
 
